@@ -3,13 +3,7 @@
 > **Multi-agent AI orchestration for engineers who ship.**  
 > Your LLM pipelines are spaghetti. n00dles fixes that.
 
-[![Official Website](www.n00dles.com)(https://www.n00dles.com)]
-
-[![PyPI version](https://img.shields.io/pypi/v/n00dles?color=F5C842&labelColor=0f0f1a)](https://pypi.org/project/n00dles)
-[![License: MIT](https://img.shields.io/badge/license-MIT-F5C842?labelColor=0f0f1a)](LICENSE)
-[![Discord](https://img.shields.io/discord/000000000?label=discord&color=F5C842&labelColor=0f0f1a)](https://discord.gg/n00dles)
-[![GitHub Stars](https://img.shields.io/github/stars/n00dleshq/n00dles?color=F5C842&labelColor=0f0f1a)](https://github.com/n00dleshq/n00dles/stargazers)
-[![Tests](https://img.shields.io/github/actions/workflow/status/n00dleshq/n00dles/test.yml?label=tests&color=1D9E75&labelColor=0f0f1a)](https://github.com/n00dleshq/n00dles/actions)
+[![Official Website](https://www.n00dles.com)]
 
 ```python
 from n00dles import agent, pipeline, run
@@ -482,10 +476,6 @@ pytest
 - Add tests for new behavior
 - Update docs if you change public API surface
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
-
-**Good first issues:** look for the [`good first noodle`](https://github.com/n00dleshq/n00dles/labels/good%20first%20noodle) label.
-
 ---
 
 ## Roadmap
@@ -512,12 +502,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
 
 | | |
 |---|---|
-| 💬 **Discord** | [discord.gg/n00dles](https://discord.gg/n00dles) — 1,200+ members, active daily |
-| 🐦 **Twitter / X** | [@n00dles_dev](https://x.com/n00dles_dev) |
-| 📖 **Docs** | [docs.n00dles.com](https://docs.n00dles.com) |
+| 📖 **Docs** | [docs.n00dles.com](https://n00dles.com/docs) |
 | 🌐 **Website** | [n00dles.com](https://n00dles.com) |
-| 🐛 **Issues** | [github.com/n00dleshq/n00dles/issues](https://github.com/n00dleshq/n00dles/issues) |
-| 🔒 **Security** | security@n00dles.com — we respond within 24 hours |
+| 🐛 **Issues** | [github.com/n00dlehouse](https://github.com/n00dlehouse) |
+| 🔒 **Security** | contact@n00dles.com — we respond within 24 hours |
 
 ---
 
