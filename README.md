@@ -3,7 +3,8 @@
 > **Multi-agent AI orchestration for engineers who ship.**  
 > Your LLM pipelines are spaghetti. n00dles fixes that.
 
-[![Official Website](https://www.n00dles.com)]
+[![Official Website](https://i.ibb.co/WvsxSx4T/n00dles-Multi-Agent-AI-Orchestration-Untangle-Your-LLM-Pipelines-06-26-2026-09-54-AM.png)(https://www.n00dles.com)]
+[![PyPI](https://img.shields.io/pypi/v/get-n00dles.svg)](https://pypi.org/project/get-n00dles/)
 
 ```python
 from n00dles import agent, pipeline, run
